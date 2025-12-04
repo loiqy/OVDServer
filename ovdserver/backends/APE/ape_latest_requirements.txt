@@ -1,0 +1,14 @@
+#torch==1.12.1
+#torchvision
+#transformers==4.32.1
+transformers
+cython
+opencv-python
+opencv-python-headless
+scipy
+einops
+lvis
+fairscale
+git+https://github.com/facebookresearch/detectron2@c69939aa85460e8135f40bce908a6cddaa73065f
+git+https://github.com/IDEA-Research/detrex@c56d32e3d0262cff9835ebe80a0642965ae0cb3e
+git+https://github.com/openai/CLIP.git@dcba3cb2e2827b402d2701e7e1c7d9fed8a20ef1
