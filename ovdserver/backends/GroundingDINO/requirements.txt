@@ -1,4 +1,4 @@
-transformers
+transformers<4.51
 Pillow
 torch
 opencv-python
